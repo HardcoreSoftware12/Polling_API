@@ -1,6 +1,6 @@
 # Polling_API
 
-- Features
+# Features
 - Create a question (you can add as many questions as you want)
 - Add options to a question
 - Add a vote to an option of question
