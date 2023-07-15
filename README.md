@@ -1,5 +1,8 @@
 # Polling_API
 
+
+# USE POSTMAN FOR HALDLING API REQUESTS
+
 # Features
 - Create a question (you can add as many questions as you want)
 - Add options to a question
